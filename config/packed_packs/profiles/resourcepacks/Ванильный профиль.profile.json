@@ -1,0 +1,23 @@
+{
+  "locked": false,
+  "name": "Ванильный профиль",
+  "overrides": {},
+  "packIds": [
+    "file/qrafty\u0027s-capitalized-font-3.1.zip",
+    "file/HumanEraVillagersIllagers[3.91.6].zip",
+    "file/Better_Animations.zip",
+    "file/§a§lVocal Villagers §r§71.4.zip",
+    "file/Torchmaster Remaster_1.0.zip",
+    "file/Suren Sophisticated Storage v1.0.2.zip",
+    "file/Recolourful Containers 3.1.3 (1.19.4+).zip",
+    "file/Fancy_Beds-v4.1.zip",
+    "file/Fancy Crops v1.3.zip",
+    "mod/punchy:resourcepacks/punchy",
+    "mod/towntalk:respack",
+    "tinyskeletons:dynamically_copied_skeleton_textures",
+    "moonlight:merged_pack",
+    "mod_resources",
+    "fabric",
+    "vanilla"
+  ]
+}
