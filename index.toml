@@ -168,9 +168,8 @@ hash = "5acf0babb68a9578c68b8a367a45d542d2abb947a8c8229febdc25c5e4d6187e"
 metafile = true
 
 [[files]]
-file = "mods/create-gunsmithing-shader-fix.pw.toml"
-hash = "5b2521891e7912a3ca359058c771741d828e9365d16de025542c1f91b84a619b"
-metafile = true
+file = "mods/create-gunsmithing-shader-fix-1.21.1-1.4.9-1.jar"
+hash = "8203636ac8a09ce0f0cf92f2296b22bedefb3bda0738888b66f29bca6db9cbdc"
 
 [[files]]
 file = "mods/diet-unofficial-port.pw.toml"
