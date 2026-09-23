@@ -14,11 +14,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "63158186da015e31dfb95e980c4912f4bd7d19d68509ce8e47f109ddb824edc7"
+hash = "18e73dffe3b8ecfa0de07e398113347a99786caa0b0ee8c997eef0b87256ce17"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "0cacddf94ca2e1e21e84fd8f871a2145d2ca88aab54d323757fa00621458e0c5"
+hash = "0c34adf252fa2e1214498f349d6ff2db43d2fef12cdb5f73d71ac952d0bedcf1"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -26,7 +26,7 @@ hash = "fc7dc2d2260bc2d69419f8b0bf2f96643c456aa457c9144736d570da42cdb976"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "ad121f763bb71f575cfb5808a4f620694d30cb3d3d4049d107a315ebc990d034"
+hash = "17ffbb2241946e0269bb1f5cd57f4e7b36d274e2716daf55f357dbb9bf87da02"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -127,10 +127,6 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "7d3e3e087413ea35871294dde95aa66de13f39d97a9788c1d7928586341baa1e"
-
-[[files]]
-file = "config/packed_packs/__version.json"
-hash = "53d0bd0d7dcc4f7d177829026f9f473fd8a5b5cd328c483a883de9a70ba33f1f"
 
 [[files]]
 file = "config/packed_packs/config.json"
