@@ -1,0 +1,13 @@
+name = "Diet [UNOFFICIAL PORT]"
+filename = "Diet-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7572f36613884be4c4c35af4abd544b32c040e5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8204918
+project-id = 1566434
